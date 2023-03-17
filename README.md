@@ -19,7 +19,9 @@
     <img align="center" alt= "Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 </div>
 <br><br>
-Apaixonado por tecnologia, sou um profissional em transição de carreira em busca de ser um desenvolvedor. 
+<h2>Tenho paixão por tecnologia e estou
+dedicando meu tempo e esforços para aprender novas
+habilidades em programação.</h2> 
 <br><br>
 
-#### contato: lazarogomes99@gmail.com
+### contato: lazarogomes99@gmail.com
