@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DCDCDC&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Lázaro+Gomes.;+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=696969&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Lázaro+Gomes.;+:%29)](https://git.io/typing-svg)
 
 # Sobre mim 🧑‍💻: 
 Sou um profissional em transição de carreira com experiência em vendas e atualmente buscando me aperfeiçoar na área de desenvolvimento. Tenho paixão por tecnologia e estou dedicando meu tempo e esforços para aprender novas habilidades em programação. Estou comprometido em me tornar um desenvolvedor habilidoso e contribuir para o sucesso da equipe de TI em que eu venha a trabalhar.
