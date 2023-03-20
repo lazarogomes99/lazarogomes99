@@ -23,6 +23,6 @@ Sou um profissional em transição de carreira com experiência em vendas e atua
 </div>
 <br><br>
 
-![LázaroG GitHub stats](https://github-readme-stats.vercel.app/api?username=lazarogomes99&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lazarogomes99&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazarogomes99&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
