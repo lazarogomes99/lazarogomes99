@@ -1,5 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=696969&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Lázaro+Gomes.;+:%29)](https://git.io/typing-svg)
 
+![Lázaro Gomes'  GitHub stats](https://github-readme-stats.vercel.app/api?username=lazarogomes99&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazarogomes99&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 # Sobre mim 🧑‍💻: 
 Sou um profissional em transição de carreira com experiência em vendas e atualmente buscando me aperfeiçoar na área de desenvolvimento. Tenho paixão por tecnologia e estou dedicando meu tempo e esforços para aprender novas habilidades em programação. Estou comprometido em me tornar um desenvolvedor habilidoso e contribuir para o sucesso da equipe de TI em que eu venha a trabalhar.
 ### contato: lazarogomes99@gmail.com
@@ -23,6 +26,4 @@ Sou um profissional em transição de carreira com experiência em vendas e atua
 </div>
 <br><br>
 
-![Lázaro Gomes'  GitHub stats](https://github-readme-stats.vercel.app/api?username=lazarogomes99&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazarogomes99&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
