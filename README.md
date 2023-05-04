@@ -4,7 +4,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazarogomes99&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 # Sobre mim 🧑‍💻: 
-Sou um profissional em transição de carreira com experiência em vendas e atualmente buscando me aperfeiçoar na área de desenvolvimento. Tenho paixão por tecnologia e estou dedicando meu tempo e esforços para aprender novas habilidades em programação. Estou comprometido em me tornar um desenvolvedor habilidoso e contribuir para o sucesso da equipe de TI em que eu venha a trabalhar.
+Dei inicio em minha carreira de TI na área de redes e gosto muito da experiência, porém atualmente estou buscando me aperfeiçoar na área de desenvolvimento. Tenho paixão por tecnologia e estou dedicando meu tempo e esforços para aprender novas habilidades em programação. Estou comprometido em me tornar um desenvolvedor habilidoso e contribuir para o sucesso da equipe de TI em que eu venha a trabalhar.
 ### contato: lazarogomes99@gmail.com
 
 
@@ -12,7 +12,7 @@ Sou um profissional em transição de carreira com experiência em vendas e atua
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lazaro-g/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lazarogomes99)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://contate.me/lazarodev)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lazarx99)
+
 
 
 
