@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=696969&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Lázaro+Gomes.;+:%29)](https://git.io/typing-svg)
 
-![Lázaro Gomes'  GitHub stats](https://github-readme-stats.vercel.app/api?username=lazarogomes99&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazarogomes99&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 # Sobre mim 🧑‍💻: 
