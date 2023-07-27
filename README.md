@@ -3,7 +3,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazarogomes99&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 # Sobre mim 🧑‍💻: 
-Dei inicio em minha carreira de TI na área de redes e gosto muito da experiência, porém atualmente estou buscando me aperfeiçoar na área de desenvolvimento. Tenho paixão por tecnologia e estou dedicando meu tempo e esforços para aprender novas habilidades em programação. Estou comprometido em me tornar um desenvolvedor habilidoso e contribuir para o sucesso da equipe de TI em que eu venha a trabalhar.
+Iniciei meu projeto de transição de carreira em 2022, fazendo alguns cursos e em 2023 comecei a atuar na área através de uma oportunidade de estágio. Entusiasta em tecnologia e apaixonado por desenvolvimento web, continuo estudando para aprender ainda mais e fortalecer meu objetivo de ser um bom desenvolvedor. Atualmente estudo e atuo com Javascript, Python e NodeJS e tenho como plano aprender C# e Angular.
 ### contato: lazarogomes99@gmail.com
 
 
